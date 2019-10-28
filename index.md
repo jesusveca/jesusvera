@@ -38,7 +38,8 @@ data and images. My interest in computer graphics and visualization is to look f
 
 
 ### Research
-- Thesis: [Process geographical data with R tree to index polygons](https://github.com/jesusveca/pre-process_R_tree_chord_pandas)
+- Thesis: New York taxi data visualization, analysis of temporal and spatial fields.
+- Sub-Area: [Process geographical data with R tree to index polygons](https://github.com/jesusveca/pre-process_R_tree_chord_pandas) 
 
 ### Portfolio
 - https://github.com/jesusveca
