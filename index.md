@@ -7,20 +7,23 @@
 - Address: Cerro Colorado, Arequipa, Peru
 - Phone:+51 977364876
 - Email: jerikerl10@gmail.com; jesus.vera.1199@gmail.com
-
+### Research Interests
+- Big Data, Data Visualization, Machine Learning
 ### Abstract and Presentation
 - Bachelor of Computer Science, my interest is to develop in the research environment, test my knowledge and develop professionally.
-### Category Name 2
-- I’m Jesus Erick Vera Callme. Peruvian, Degree in Computer Science from the Catholic University of San Pablo de Arequipa - Peru.
+- I am Jesus Erick Vera Callme. Peruvian, Degree in Computer Science from the Catholic University of San Pablo de Arequipa - Peru.
 - I have training and interest in data detection and the discovery of patterns in geographic and visual data. I am interested in discovering phenomena, anomalies and facts that are hidden in the data collected from different human activities (taxi, flights, migrations ), find the best ways to process a large amount of data, research and technical proposals to visualize and process
 data and images. My interest in computer graphics and visualization is to look for the best form of visualization and processing.
-### Category Name 2
 - I have experience and training in data visualization, my thesis is focused and directed to the visualization of origin and destination data of New York taxi data to discover phenomena of spatial and temporal characteristics.
-### Category Name 2
-
-
-### Education (2013 - 2019)
+### Education (2013 - 2019)
 - Bachelor of Computer Science at Universidad Catolica San Pablo 2019, Arequipa - PERU
+
+### Participations and certifications
+- Peruvian Symposium of Graphic Computing and Images - SCGI 2017, Universidad Católica San Pablo-CONCYTEC 30 October to 02 November 2017
+- X Peruvian Symposium on Artificial Intelligence (X SPIA 2018) San Pablo Catholic University in Arequipa
+- III Peruvian Congress of Economic History - 2017National University of San Agustin - Catholic University San PabloAugust 7 to August 9, 2017
+### Professional Experience
+- ODOO ERP Programmer (Enterprise Software) Currently working–Developer in Odoo ERP (HolaCLiente - Arequipa): Modification and creation of modules in Odoo [Feb 2019 - Sept 2019].
 
 ### Skills
 - Languages–Spanish: Native
@@ -34,30 +37,12 @@ data and images. My interest in computer graphics and visualization is to look f
 - Social Skills: Open Communication, Leadership in problems, Attitudes / Sports, flexible and group skills
 
 
-### Category Name 1
+### Research
+- Thesis: [Process geographical data with R tree to index polygons](https://github.com/jesusveca/pre-process_R_tree_chord_pandas)
 
-[Process geographical data with R tree to index polygons](https://github.com/jesusveca/pre-process_R_tree_chord_pandas)
-<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
+### Portfolio
+- https://github.com/jesusveca
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
