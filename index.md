@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Category Name 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Process geographical data with R tree to index polygons](https://github.com/jesusveca/pre-process_R_tree_chord_pandas)
+<!-- <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
