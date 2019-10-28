@@ -11,7 +11,7 @@
 ### Abstract and Presentation
 - Bachelor of Computer Science, my interest is to develop in the research environment, test my knowledge and develop professionally.
 - I’m Jesus Erick Vera Callme. Peruvian, Degree in Computer Science from the Catholic University of San Pablo de Arequipa - Peru.
-- I have training and interest in data detection and the discovery of patterns in geographic and visual data. I am interested in discovering phenomena, anomalies and facts that are 'hidden' in the data collected from different human activities (taxi, flights, migrations ), find the best ways to process a large amount of data, research and technical proposals to visualize and process data and images. My interest in computer graphics and visualization is to look for the best form of visualization and processing.
+- I have training and interest in data detection and the discovery of patterns in geographic and visual data. I am interested in discovering phenomena, anomalies and facts that are hidden in the data collected from different human activities (taxi, flights, migrations ), find the best ways to process a large amount of data, research and technical proposals to visualize and process data and images. My interest in computer graphics and visualization is to look for the best form of visualization and processing.
 - I have experience and training in data visualization, my thesis is focused and directed to the visualization of origin and destination data of New York taxi data to discover phenomena of spatial and temporal characteristics.
 
 ### Education [2013 - 2019]
