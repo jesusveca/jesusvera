@@ -28,6 +28,8 @@ data and images. My interest in computer graphics and visualization is to look f
 ### Professional Experience
 - ODOO ERP Programmer (Enterprise Software) Currently working–Developer in Odoo ERP (HolaCLiente - Arequipa): Modification and creation of modules in Odoo [Feb 2019 - Sept 2019].
 
+### Skills
+
 ### Skills
 - Languages–Spanish: Native
 - Languages-English: Good (Read, I can understand, speak and write at Intermediate level)
