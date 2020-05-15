@@ -20,7 +20,7 @@ data and images. My interest in computer graphics and visualization is to look f
 ### Education (2013 - 2020)
 - Bachelor of Computer Science at Universidad Catolica San Pablo 2019, Arequipa - PERU
 - Data Science Specialization - Diplomado (Big Data, Stadistics, Machine Learning and Visualization) at Universidad Catolica San Pablo (2020), Arequipa - PERU.
-- Information Visualization Specialization (focus on D3.js) at Coursera.com, by Enrico Bertini offered by NYU (New York University) - Currently studying (2020)
+- Information Visualization Specialization (focus on D3.js) at Coursera.com, by Enrico Bertini offered by NYU (New York University) - Currently studying as an Audit student (2020).
 
 ### Participations and certifications
 - Peruvian Symposium of Graphic Computing and Images - SCGI 2017, Universidad Católica San Pablo-CONCYTEC 30 October to 02 November 2017
