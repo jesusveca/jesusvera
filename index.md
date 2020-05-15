@@ -9,6 +9,7 @@
 
 ### Research Interests
 - Big Data, Data Visualization, Visual Analytics, Machine Learning, Urban Computing, Data Science, Computer Graphics, Data Mining.
+- Powerful and effective StoryTelling after the analysis. 
 
 ### Abstract and Presentation
 - Bachelor of Computer Science, my interest is to develop in the research environment, test my knowledge and develop professionally.
